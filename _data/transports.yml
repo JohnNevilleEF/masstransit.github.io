@@ -4,3 +4,9 @@
 - title: Azure Service Bus
   url: MassTransit/usage/transports.html#azure-service-bus-configuration-options
   subtitle: Running on Azure?
+- title: Amazon SQS
+  url: MassTransit/usage/transports.html#amazon-sqs
+  subtitle: Running on Amazon?
+- title: ActiveMQ / AmazonMQ
+  url: MassTransit/usage/transports.html#activemq--amazonmq
+  subtitle: Running on ActiveMQ?
